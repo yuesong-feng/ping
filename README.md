@@ -1,2 +1,2 @@
 # ping
-C++实现ping程序
+C/C++实现ping程序
